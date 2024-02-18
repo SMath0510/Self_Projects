@@ -1,0 +1,9 @@
+html
+  head
+    title= title
+  body
+    h1= message
+    form.post_request(action="../" method="POST") 
+      input.name(type="text", name="namebox", placeholder="Your Name")
+      //- input.submit(type="submit", name="submitbox", value="submit")
+      button submit 

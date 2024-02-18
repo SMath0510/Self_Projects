@@ -1,0 +1,650 @@
+Problem Name, Problem Text, Topic Name, Difficulty
+Chances of Non-Decreasing Sequence, "",  Probability,  Medium
+N points on a circle, "Imagine you are drawing
+7 random points on the edge of a circular cake. What is the chance that all of these points will be located within a half of the cake?",  Probability,  Medium
+Coin toss game, "Two gamblers are playing a coin toss game. Gambler
+A has
+(n+1) fair coins;
+B has
+n fair coins. What is the probability that
+A will have more heads than
+B if both flip all their coins?",  Probability,  Medium
+Random ants, "500 ants are placed on a
+1-foot string without any order. Assume independent uniform distribution for each ant. Each ant will move randomly towards either end of the string at a constant speed of
+1 foot per minute. The ants will keep moving until they reach the end of the string, and if two ants collide head-on, they will both immediately turn around and continue moving. Assuming that the size of the ants is infinitely small, what is the expected time for all
+500 ants to fall off the string?",  Expected Value,  Medium
+Expected Turns To Find a Taller Guy, "Choose a person randomly on the street
+X. Let
+N denote the random variable representing the number of people that you select randomly from the street before you find someone who's taller than
+X. What is
+E[N]",  Expected Value,  Hard
+Coins on Chessboard, "You are given a chessboard with 8x8 dimensions. Your friend Tim asks you how many ways there are to place coins on the chessboard such that there are even number of coins in each row and in each column. Can you find it out?",  Combinatorics,  Medium
+Same or Higher, "Anton rolls a fair die and records the value he rolls. Afterwards, he continues rolling the die until he obtains a value at least as large as the first roll. Let N be the number of rolls after the first he performs. Find E[N].",  Expected Value,  Medium
+Sum of random variables, "You are given
+6 random variables,
+X
+1
+,
+X
+2
+, ... , and
+X
+6
+. Each of these variables has a uniform distribution that ranges from
+0 to
+1. Your task is to determine the probability that the sum of these variables, denoted as
+S, is less than equal to
+1. Can you solve this problem?",  Probability,  Medium
+Color Switches, "You are given an urn with
+100 balls (
+50 black and
+50 white). You pick balls from urn one by one without replacements until all the balls are out. A black followed by a white or a white followed by a black is "a colour change". The expected number of colour changes if the balls are being picked randomly from the urn.",  Expected Value,  Medium
+Roll Die till Sequence, "On average, how many times must a 6-sided die be rolled until the sequence of
+6
+5 (i.e. a
+6 followed by a
+5) appears?",  Expected Value,  Medium
+Expected number of subtree removals, "You are given a rooted tree with
+n nodes. On each step, you randomly choose a node and remove the subtree rooted by that node and the node itself; until all of them have been removed (that is, the root has been chosen). Find the expected number of steps in this process. Compute for a complete binary tree with 7 nodes.",  Expected Value,  Medium
+Big Mac, "",  ,  Easy
+Wedding Handshakes, "",  ,  Easy
+Life Is A Raceway, "Lightning McQueen goes for a race. He places 14 places ahead of last place and 6 places below the upper half of competitors. What place was Lightning McQueen in?",  Number Theory,  Easy
+The Blind Archer, "A very sharp, consistently skillful blind archer aimed for the center of a circular board and shot 2 arrows. He is expected to hit the aim, but doesn't hit it for sure. The archer is told that his first shot is better than second. He tried one more shot. What is the probability that this 3rd shot is the best shot among 3? (ie, Probability that 3rd arrow lands closer to center than his first two shots?)",  Probability,  Medium
+Sum of n-Die Rolls, "A fair,
+n-sided die is rolled until a roll of
+k or greater appears. All rolls are summed. What is the expected value of the sum? Compute for
+n=6 and
+k=3",  Expected Value,  Medium
+Defective ball, "You have
+12 identical balls. One of the balls is heavier or lighter than the rest (you don't know which). Using just a balance that can only show you which side of the tray is heavier, can you determine which ball is the defective one with
+3 measurements?",  Puzzles,  Medium
+Coupon collection, "There are
+N distinct types of coupons in cereal boxes and each type, independent of prior selections, is equally likely to be in a box. If a child wants to collect a complete set of coupons with at least one of each type, how many coupons (boxes) on average are needed to make such a complete set?",  Expected Value,  Medium
+Father of lies, "A father claims about snowfall last night. First daughter tells that the probability of snowfall on a particular night is
+8
+1
+. Second daughter tells that
+5 out of
+6 times the father is lying! What is the probability that there actually was a snowfall?",  Probability,  Easy
+Coin Sequence, "Assume you are flipping a fair coin repeatedly. How many times on average do you need to flip it to get
+5 heads in a row?",  Expected Value,  Medium
+Application letters, "Imagine that you are applying for jobs at
+5 well-known financial firms: Morgan Stanley, Lehman Brothers, UBS, Goldman Sachs, and Merrill Lynch. You have carefully typed out personalised cover letters for each firm and placed them in
+5 envelopes, each labeled with the appropriate address. However, your
+3-year-old nephew thought he was helping by randomly stuffing the letters into the envelopes, without realizing that each letter was meant for a specific firm. As a result, there is a chance that all
+5 letters will be sent to the wrong firms.",  Probability,  Easy
+Random point on disk, "x &
+y are two random points selected uniformly between
+0 &
+1. Using them, is it possible to create a point uniformly random in circle of radius
+1 ?",  Probability,  Medium
+Dead Men Walking, "Assume
+100 zombies are walking on a straight line, all moving with the same speed. Some are moving towards left, and some towards right. If a collision occurs between two zombies, they both reverse their direction. Initially all zombies are standing at 1 unit intervals. For every zombie, you can see whether it moves left or right, is it possible to predict the number of collisions?",  Puzzles,  Easy
+Chances of Non-Decreasing Sequence, "Suppose we roll a fair die
+10 times. What is the probability that the sequence of rolls is non-decreasing (i.e., the next roll is never less than the current roll)?",  Probability,  Medium
+N points on a circle, "Imagine you are drawing
+7 random points on the edge of a circular cake. What is the chance that all of these points will be located within a half of the cake?",  Probability,  Medium
+Coin toss game, "Two gamblers are playing a coin toss game. Gambler
+A has
+(n+1) fair coins;
+B has
+n fair coins. What is the probability that
+A will have more heads than
+B if both flip all their coins?",  Probability,  Medium
+Random ants, "500 ants are placed on a
+1-foot string without any order. Assume independent uniform distribution for each ant. Each ant will move randomly towards either end of the string at a constant speed of
+1 foot per minute. The ants will keep moving until they reach the end of the string, and if two ants collide head-on, they will both immediately turn around and continue moving. Assuming that the size of the ants is infinitely small, what is the expected time for all
+500 ants to fall off the string?",  Expected Value,  Medium
+Expected Turns To Find a Taller Guy, "Choose a person randomly on the street
+X. Let
+N denote the random variable representing the number of people that you select randomly from the street before you find someone who's taller than
+X. What is
+E[N]",  ,  Medium
+Aces, "In a game,
+52 cards are randomly distributed among
+4 players, with each player receiving
+13 cards. What is the likelihood that each player will receive an ace?",  Probability,  Medium
+Amoeba population, "A small pond has a single amoeba living inside it. This particular amoeba has a unique ability, where every minute it can either die, stay alive, split into two, or split into three, each with an equal probability. The offspring produced by this amoeba will also have the same behavior, and will act independently of other amoebas. What is the likelihood that this amoeba population will eventually die out?",  Probability,  Medium
+Expected value of max and min, "Let
+X
+1
+,X
+2
+,...,X
+n
+, be IID random variables with uniform distribution between
+0 and
+1.",  Expected Value,  Medium
+Hopping Rabbit, "Imagine a small rabbit sitting at the bottom of a staircase with 10 stairs, some of which are higher than others. The rabbit can jump up one or two stairs at a time, but not more. Can you calculate the total number of unique ways this little creature could maneuver and make it all the way to the top of the stairs?",  Discrete Maths,  Easy
+Catching Ants, "There are
+51 ants sitting on top of a square table with side length of
+1. If you have a square card with side
+5
+1
+, can you put your card at a position on the table to guarantee that the card encompasses at least
+3 ants?",  Puzzles,  Easy
+Card game, "Imagine you are in a casino playing a card game. The game uses a standard deck of 52 cards and you turn over two cards at a time. If both cards are black, they go to the dealer's pile, if both are red, they go to your pile, and if one is black and one is red, they are discarded. This process continues until all 52 cards have been turned over. If you have more cards in your pile, you win
+100 dollars, but if the dealer has more or if there is a tie, you receive nothing. The casino is letting you choose how much money you want to pay to play this game. What is the maximum amount you would be willing to pay?",  Puzzles,  Easy
+Pattern on Snowflakes, "Snow-particles are falling on the ground one after another. A particular snowflake turns out to be of type "Stellar Dendrite" with probability '
+p' if its previous particle was also Stellar Dendrite, and with probability '
+q' if previous one was something else. If a snowflake is picked from ground, what is the probability that it is Stellar Dendrite? Calculate for p=1/2 & q=1/3",  Probability,  Medium
+Birthday problem, "How many people do you need in a room to ensure a greater than
+50% chance that two of them share the same birthday?",  Probability,  Easy
+2 Eggs, "An Egg breaks only if dropped from above a threshold floor, within a
+100 story building. Every time you drop the egg, it is counted an attempt. You are given two eggs, find an algorithm to deduce the threshold floor, with minimum number of attempts in worst case. Find the minimum number of tries required with that algorithm ?",  Puzzles,  Easy
+Russian roulette series, "You are in a deadly game in which a single bullet is placed in a
+6-chamber revolver, and the barrel is randomly spun. Two players take turns to pull the trigger, with the gun pointing at their own head, until the gun goes off and the person who gets killed loses. Consider the scenario, two bullets are randomly placed in the chamber, and your opponent played the first round but survived. You are given the option to spin the barrel. Should you spin the barrel or not?",  Probability,  Easy
+Coin Problem, "Suppose you have an infinite stock of
+$a bills and
+$b bills such that
+GCD(a,b)=1. Find the largest amount of money (integer) that cannot be represented using
+$a and
+$b denominations. Compute for a=5 & b=7",  Discrete Maths,  Medium
+Pure Gold, "You are given
+32 coins which look identical. But actually some of them are pure gold coins (hence are heavy) and the rest are aluminium coins with thin gold plating (light). You are given one beam balance with two pans. What is the number of weighing required to separate the gold from fake coins? (all gold coins have equal weights & all fake coins too have the same weight)",  Discrete Maths,  Hard
+Dice game II, "You can roll a
+6-side dice up to
+3 times. After the first or the second roll, if you get a number x, you can decide either to get
+x dollars or to choose to continue rolling. But once you decide to continue, you forgo the number you just rolled. If you get to the third roll, you'll just get
+x dollars if the third number is
+x and the game stops. What is the game worth and what is your strategy?",  Expected Value,  Medium
+Expected Rolls I, "On average, how many times do you need to roll a
+6-sided die until all sides have appeared at least once?",  Expected Value,  Medium
+Coin piles, "Imagine yourself standing in a room with a blindfold on. You are informed that there are
+1000 coins scattered on the floor. Out of those coins,
+980 have tails facing upwards while the remaining
+20 have heads facing upwards. You are given a task to separate the coins into two piles. Can you ensure that both piles have an equal number of heads facing upwards? However, you are not allowed to touch or feel the coins to determine their sides, but you can flip over as many coins as you want.",  Puzzles,  Medium
+Burning Cords, "You are given two cords that both burn exactly one hour, not necessarily with constant speed. Can you determine a time interval of exactly
+15 minutes by burning cords in some particular order?",  Puzzles,  Easy
+Waiting for the Train, "Spiderman has two girlfriends, Mary Jane & Gwen Stacy. After every mission, he rushes to the central subway. Since spidey is a nice man, much impartial, he takes which-ever train arrives first. From subway, one series go towards Mary's place, and another series move towards Stacy.",  Puzzles,  Easy
+Shooting in Circle, "100 pirates stand in a circle. They start shooting alternately in a cycle such that
+1
+st
+pirate shoots
+2
+nd
+,
+3
+rd
+shoots
+4
+th
+and so on. They continue in circle till only one pirate is left. Which position should Captain Jack Sparrow stand to survive?",  Discrete Maths,  Easy
+Chess Tournament, "A chess tournament has
+K levels and
+2
+K
+players with skills
+1>2>...>2
+K
+. At the first level, players are randomly given a slot from
+1 to
+2
+K
+. Players with adjacent slots play together ( slot 1 with slot 2, slot 3 with slot 4 ans so on) and one person from each pair proceeds to next level in a knockout tournament style. When two opponents play, the one with better skills always wins. What is the probability that players
+1 and
+2 will meet in the final level, if they participate in a tournament of 8 players?",  Probability,  Easy
+Dark Room Deck, "In a dark room, there is a deck of
+52 cards, with exactly
+10 cards facing up, rest facing down. Can you split this into two decks with equal number of cards facing up?",  Strategy Game,  Easy
+Boys and girls, "A company is hosting a dinner for working mothers who have at least one son. Ms. Jackson, a mother with two children, has been invited to the event. What are the chances that both of her children are boys?",  Probability,  Easy
+Expected Breakup Length, "A stick is broken into
+3 pieces, by randomly choosing two points along its unit length, and cutting it. What is the expected length of the middle part?",  Expected Value,  Easy
+Single Bid, "You have an opportunity to make one bid on an object, whose value to its owner is, as far as you know, uniformly random integer between 0 and 100. What you do know is that you are so much better at operating the widget than he is, that its value to you is 80% greater than its value to him. If you offer more than the widget is worth to the owner, he will sell it. But you get only one shot. How much should you bid?",  Expected Value,  Medium
+Screwy pirates II, "Once the pirate team had divided their loot peacefully, their group became bigger with total of
+11. However, they needed a secure way to protect their hard-earned treasure. They decided to put all their loot in a safe, but being a democratic group, they agreed that the safe should only be opened by a majority of them, which means more than
+5 pirates. For this reason, they hired a locksmith to put locks on the safe. To access the treasure, all locks must be opened, and each lock can only be opened with one key. The locksmith can provide multiple keys to each pirate.",  Combinatorics,  Easy
+Overlapping Coins, "A rectangular table has 100 coins with unit radius, placed on it such that none of the coins overlap, and it is impossible to place any more coins on the table without causing an overlap. Using this specific configuration, does there exist a special configuration of 400 coins which covers the table with overlaps?",  Geometry,  Medium
+Coin Triplets, "You're playing a coin-tossing game where you flip a fair coin repeatedly until you get either
+HHH or
+THH consecutively. What is the probability of getting an
+HHH subsequence before a
+THH subsequence?",  Probability,  Medium
+Crazy Postman, "A postman brought
+5 letters to a house with two letter-boxes. Since the two boxes were empty, he puts 1 mail in each of the two mail boxes. Then he chooses one of boxes with probability proportional to number of letters present in that box, and puts the 3rd letter in it. He does this for all subsequent letters. What is the expected number of letters in the box with lower letters?",  Expected Value,  Medium
+Accidents in Half Time, "Probability of accidents on a road in one hour is
+4
+3
+. What is the probability of accidents in half hour?",  Probability,  Easy
+Multilingual, "A group has
+70 members. For any two members
+X and
+Y there is a language that
+X speaks but
+Y does not, and there is a language that
+Y speaks but
+X does not. At least how many different languages are spoken by the members of this group?",  Combinatorics,  Medium
+King's Salary, "After the revolution, each of the
+66 citizens of a certain city, including the king, has a salary of
+1. King cannot vote, but has the power to suggest changes - namely, redistribution of salaries. Each person's salary must be a whole number of dollars, and the salaries must sum to
+66. He suggests a new salary plan for every person including himelf in front of the city. Citizens are greedy, and vote yes if their salary is raised, no if decreased, and don't vote otherwise. The suggested plan will be implemented if the number of "yes" votes are more than "no" votes. The king is both, selfish and clever. He proposes a series of such plans. What is the maximum salary he can obtain for himself?",  Puzzles,  Easy
+Dart game, "Jason is a skilled dart player who aims for the center of the dartboard. During a game, he throws two darts consecutively and unfortunately, the second dart lands farther from the center than the first. Now, he is about to throw his third dart aiming for the center. What is the likelihood that his third throw will be farther from the center than his first throw? Let's assume that Jason's skill level remains constant.",  Probability,  Easy
+Dice order, "We throw
+3 dice one by one. What is the probability that we obtain
+3 points in strictly increasing order?",  Probability,  Easy
+Quick Summation, "What is the sum of the integers from 1 to 50, inclusive?",  Discrete Maths,  Easy
+Card game II, "Imagine you're at a casino and you come across a simple card game. The deck has
+52 cards with four cards each of the jack, queen, king, and ace, as well as values
+2 through
+10, a jack, a queen, a king, and an ace. The cards are shuffled thoroughly before each game, ensuring that each card has an equal chance of being selected. In this game, you and the dealer each pick up one card without replacement. If your card has a larger value, you win. However, if the values are equal or your card has a smaller value, the house wins. As is typical with most casino games, the house has better odds of winning. What is the probability of winning this game if you choose to play?",  Probability,  Easy
+Last ball, "A bag is filled with blue and red balls. There are
+20 blue balls and
+13 red balls in the bag. Every time you pick out two balls at random, without returning them to the bag. If the two balls are of the same color, you add a blue ball to the bag. If the two balls are of different colors, you add a red ball to the bag. You have an infinite supply of both blue and red balls. If you keep repeating this process, what color will the last ball in the bag be?",  Discrete Maths,  Easy
+Catching the Submarine, "On a 2D plane, an aircraft hovers above sea, trying to catch a submarine moving with a constant velocity under the sea. The submarine is completely invisible, but using a human radar only once, the aircraft knows the exact location of submarine under the sea. The direction of submarine is unknown, but constant. The aircraft can move at twice the speed of submarine. As soon as the aircraft is just vertically above the submarine, Aircraft can magnetically pick it up. Can the aircraft catch the submarine? If yes, also figure out the time it would take, if no, prove why?",  Discrete Maths,  Hard
+Crazy Clock, "There is a crazy clock in Alice's Dream, it has two hands initially pointing at 12. The minute hand moves clockwise, making 5 rounds (with varying speeds) and comes back to 12. In the same time, the hour hand goes anti-clock wise, finishing 4 rounds and returns to 12. How many times did the two cross each other ? (Cross means meet & pass through, hence ignore start & end)",  Puzzles,  Easy
+World series, "In the World Series finals, the Boston Red Sox and the Colorado Rockies are facing each other. The championship goes to the team is the first to win four out of the maximum seven games. You want to bet on the Red Sox and have
+100 dollars to place a double-or-nothing wager on each game. Unfortunately, you can only bet on each individual game, not the series as a whole. How much should you bet on each game so that if the Red Sox wins the whole series, you win exactly
+100 dollars, and if Red Sox loses, you lose exactly
+100 dollars?",  Strategy Game,  Hard
+Expected Rolls III, "On average, how many rolls would it take to get two of the same face when rolling a fair die?",  Expected Value,  Hard
+Rabbit's Chance of Making One Leftwards Jump, "A rabbit started at stone
+1 in a row of
+7 stones, labelled
+1 to
+7 from left to right. On each turn, the rabbit hopped to a new stone that it hadn't visited yet. What is the probability that the rabbit made exactly one leftwards jump after visiting all the stones?",  Probability,  Hard
+Distance from North Pole, "What is the expected distance of any point on Earth and the north pole? Take Earth radius 1.",  Expected Value,  Hard
+Coin toss game II, "Two friends named
+A and
+B are playing a coin-tossing game. They take turns tossing a fair coin. If the sequence of heads and tails forms a
+HT subsequence, the game ends and the player who tosses the tail wins.
+A goes first, followed by
+B, and the game continues in this pattern. What is the chance of
+A winning the game?",  Probability,  Medium
+Race to the Tree!, "Johnny and you were playing a game. Johnny was standing
+10m away from the centre of a circular tree with a radius of
+1m, while you were standing on the opposite side of the tree, also
+10m away from the centre. The game was that if you could reach the tree without being seen, you would win, but if Johnny could see you without his line of sight being blocked by the tree, he would win.",  Geometry,  Hard
+Door to offer, "You are facing two doors. One leads to your job offer and the other leads to exit. In front of either door is a guard. One guard always tells lies and the other always tells the truth.",  Puzzles,  Easy
+Have we met before?, "If there are
+6 people at a party (including you), then either at least
+3 people met each other before the party, or at least
+3 people were strangers before the party. Is this true?",  Discrete Maths,  Medium
+Sharing Wood, "A,B &
+C live together and share everything equally. One day
+A brings home
+5 logs of wood,
+B brings
+3 logs and
+C brings none. Then they use the wood to cook together and share the food. Since
+C did not bring any wood, he gives
+8 dollars instead. How much to
+A and how much to
+B?",  Discrete Maths,  Easy
+Monty Hall Problem, "Suppose you're on a game show, and you're given the choice of three doors: Behind one door is a car; behind the others, goats. You pick a door, say No.
+1, and the host, who knows what's behind the doors, opens another door, say No.
+3, which has a goat. He then says to you, "Do you want to pick door No.
+2?". What is the probability to win car if you switch?",  Probability,  Easy
+Ticket line, "At a theater ticket office, there are
+2n people waiting to buy tickets.
+n of them have only
+5 bills, while the other
+n people have only
+10 bills. Unfortunately, the ticket seller has no change to start with. Each person wants to buy one
+5 ticket. What are the chances that everyone can successfully buy their ticket without having to change places, if there are a 12 people in line (n = 6) ?",  Probability,  Hard
+Dice question, "Two friends, Alex and Ben, enjoy playing a game of dice. They roll a pair of standard six face die and record the sum. They place a bet on who will get the desired result first. Alex is optimistic and bets that the sum
+12 will appear first. Meanwhile, Ben places his bet on two consecutive
+7s. They continue playing until one of them reaches their winning condition. What is the probability of Alex winning?",  Probability,  Medium
+Rolling 6 Twice, "On average, how many times must a
+6-sided die be rolled until two
+6s appear consecutively?",  Expected Value,  Easy
+Birthday line, "At a movie theater you are waiting in line and the manager suddenly announces a whimsical giveaway. She will give a free ticket to the first person in line whose birthday matches with someone who has already bought a ticket. You have the opportunity to choose any position in line. However, you do not know anyone else's birthday and all birthdays are evenly distributed throughout the year (assuming
+365 days in a year). Which position in line will give you the best chance of getting the free ticket?",  Probability,  Medium
+Non-Fair vs Fair, "Rolling a non-fair die has a greater probability of rolling doubles than rolling a fair die. Is this statement true?",  Probability,  Hard
+Consecutive Heads, "What is the expected number of coin tosses required to get
+5 consecutive heads?",  Expected Value,  Medium
+Bricking Box, "Can you pack 53 bricks of dimensions
+1x
+1x
+4 into a
+6x
+6x
+6 box? The faces of the bricks are parallel to the faces of the box",  Discrete Maths,  Hard
+Sum To One, "On pressing a button, a random number is generated uniformly between
+0 &
+1. You keep on generating these numbers until their sum exceeds
+1. What is the expected number of times you need to press the button?",  Probability,  Hard
+Matching socks, "Imagine yourself as a busy
+MIT student who has a drawer filled with
+2 red socks,
+20 yellow socks, and
+31 blue socks. You have a tendency to be absent-minded, so you randomly grab socks from the drawer to wear. Assuming that each sock has an equal chance of being selected, how many socks do you need to pull out of the drawer to guarantee that you have a pair of socks in the same color?",  Discrete Maths,  Easy
+Chameleon colors, "On a distant island, there are three kinds of chameleons:
+13 are red,
+15 are green, and
+17 are blue. When two chameleons of different colors encounter each other, they change their color to the third color. For instance, if a green chameleon and a red chameleon meet, they both become blue. Can all the chameleons ever be the same color?",  Discrete Maths,  Hard
+Quant salary, "Eight quants from different banks are getting together for drinks. They are all interested in knowing the average salary of the group. Nevertheless, being cautious and humble individuals, everyone prefers not to disclose his or her own salary to the group. Is it possible to calculate the average salary without knowing other people's salaries?",  Discrete Maths,  Easy
+Breaking Stick, "The stick drops and breaks at a random point distributed uniformly across the length. What is the expected length of the smaller part, if the original stick if of length
+20m?",  Expected Value,  Easy
+Wise men, "Once upon a time, Sultan had captured
+50 wise men and kept them in separate rooms. He had a glass that was currently standing bottom down. The Sultan calls one of them every minute, and they can choose to turn the glass over or do nothing. The wise men will be called randomly, and it could happen an infinite number of times. The only way for the wise men to be released was if one of them correctly stated that they have all been called to the Sultan at least once. If the statement was wrong, everyone would be put to death. Before they were imprisoned in separate rooms, they were allowed to communicate only once.",  Puzzles,  Easy
+Weights Reckoning, "We have a beam balance (with two pans to compare weights) and a positive integer
+121. Also, we have 121 pebbles with weights from
+{1,2,...121}. What is the minimum number of pebbles we need to weigh all possible integers from
+1 to
+121?",  Discrete Maths,  Easy
+Drunk man, "A man had too much to drink and is standing on a bridge that is
+100 meters long. He is currently at the
+17
+th
+meter but has a tendency to either move forward or backward one meter with a
+50% chance for each step he takes. What are the chances that he will make it to the end of the bridge (the
+100
+th
+meter) before he returns to the beginning (the
+0
+th
+meter)?",  Probability,  Hard
+Red Dead Redemption, "In a room stand
+n armed and angry people. At each chime of a clock, everyone simultaneously spins around and shoots a random other person. The persons shot fall dead and the survivors spin and shoot again at the next chime. Eventually, either everyone is dead or there is a single survivor.As
+n grows, what is the limiting probabality that there will be a survivor?",  Probability,  Hard
+Trailing zeros, "How many trailing zeros are there in 100! (factorial of 100)?",  Discrete Maths,  Easy
+Lucky Candy, "How do you place
+50 good candies and
+50 rotten candies in two boxes such that if you choose a box at random and take out a candy at random, it better be good! That means probability of choosing a good candy should be highest.",  Probability,  Easy
+Rolling 6 on a Die, "On average, how many times must a 6-sided die be rolled until a 6 turns up?",  Expected Value,  Easy
+Basketball scores, "A basketball player decided to practice his free throws. He has exactly
+100 shots to make and will score one point if the ball passes through the hoop and zero point if it doesn't. On his first try, he makes a basket, but unfortunately, he missed the next one. However, for each throw, the probability of him scoring depends on the fraction of throws he has already made. For example, if he has made
+40
+23
+baskets after making 40 shots, the probability of him making a basket on his
+41
+st
+shot is
+40
+23
+. Now, the question is, what is the probability that he makes exactly
+50 baskets after taking all 100 shots (including the first two)?",  Probability,  Hard
+Gas Stations on Circular Trek, "Imagine you're driving on a circular race track with no gas in your car's tank. You notice that there are
+N gas cans scattered at different points on the track, and the total amount of gas in these cans is exactly enough to complete one full lap. Is it possible to choose a starting position on the track where you can pick up all the gas cans and complete the circle without running out of gas?",  Puzzles,  Hard
+Counting on friends, "There is a party of
+N people, and the friendships there are symmetric. Symmetric means that if
+A is friends with
+B, then
+B is in turn friends with A. Is it true that there are at-least two people with same number of friends?",  Discrete Maths,  Easy
+Rolling the bullet, "Two bullets are put into a gun's round barrel consecutively, which has capacity of
+6. The gun is shot once, but no bullet is fired. Does rolling the barrel (shuffling) before next shot increase the probability of firing a bullet ?",  Puzzles,  Easy
+Dice game, "Suppose you are playing a game where for every roll of dice and you get paid based on the number it shows . If the dice shows
+4,
+5, or
+6, you get to roll again and add the value to your overall payout. If the dice shows
+1,
+2, or
+3, the game ends and you can't roll again. What is the average amount of money you can expect to win from this game?",  Expected Value,  Medium
+Move to the North, "How many points are there on the globe, so that if you walk
+1km South, then
+1km East and then
+1km North, you reach the place where you started?",  Puzzles,  Medium
+Dynamic card game, "A new card game is available at a casino. It uses a standard deck of
+8 cards, half of which are red and half are black. The dealer will draw cards one by one, without returning them to the deck. You have the power to stop the game at any point. Each time a red card is drawn, you win
+1 dollar, but if a black card is drawn, you lose
+1 dollar. To maximise your expected payoff, what is the best strategy for stopping the game?",  Expected Value,  Medium
+Guess the Toss, "A and
+B are in a team called
+AB, playing against
+C. If
+AB team wins it gets Rs
+3, nothing otherwise.",  Probability,  Easy
+Joint default probability, "Bond
+A has a
+50% chance of defaulting next year while Bond
+B has a
+30% chance of defaulting. What is the range of probability that at least one bond defaults and what is the range of their correlation?",  Probability,  Hard
+Counterfeit coins II, "Imagine you are presented with 5 bags, each containing 100 coins. The catch is that you do not know what type of coin is in each bag, as each bag may contain coins weighing either
+9 grams,
+10 grams, or
+11 grams. However, you do have access to a digital scale that can accurately measure the weight of the coins. How many times would you need to use the scale to determine the type of coin each bag contains?",  Puzzles,  Medium
+Die Sum II, "On average, how many times must a fair,
+n-sided die be rolled and summed before the sum reaches at least
+n? Compute for n = 4",  Expected Value,  Hard
+Unfair coin, "You have been given a thousand coins to study. One of these coins has heads on both sides, while the remaining
+999 are fair coins. You pick a coin at random and flip it ten times. To your surprise, the coin turns up heads every time. What is the likelihood that the coin you picked is the one with two heads?",  Probability,  Easy
+Prisoner's Hat, "100 prisoners are lined up and assigned a random hat, either red or blue. There can be any number of red hats. Each prisoner can see the hats in front of him but not behind. Starting with the prisoner in the back of the line and moving forward, they must each, in turn, say only one word which must be "red" or "blue". If the word matches their hat color they are released, if not, they are killed on the spot. They can hear each others answers, no matter how far they are on the line.",  Puzzles,  Easy
+Random High Fives on Chessboard, "64 people are standing on an
+8×8 chessboard, facing randomly chosen neighbours. If two people are facing each other, they will give each other a high five. On average, how many high fives can we expect to see?",  Expected Value,  Medium
+Clan Size, "The people in a country are partitioned into clans. In order to estimate the average size of a clan, a survey is conducted where 1000 randomly selected people are asked to state the size of the clan to which they belong. Can you compute an estimate average clan size from the data collected? If yes, how?",  Discrete Maths,  Easy
+Poker hands, "Imagine you are playing a game of poker. In this game, each player is dealt a hand of five cards from a deck of 52 cards. Each card has a specific value and belongs to one of four suits. The values range from
+2 to
+10, as well as Jack, Queen, King, and Ace. The suits are spades, hearts, clubs, and diamonds.",  Probability,  Easy
+Color Complex, "Consider a infinite 2D complex plane, all the integer-component points are coloured either White, Black or Brown. For example
+(0,0) might be black,
+(1,2) might be white and so on",  Puzzles,  Medium
+Infinity & Beyond, "Suppose you have a hotel which has one floor with infinite number of rooms in a row and all of them are occupied.",  Puzzles,  Medium
+Duck & Fox, "A duck is swimming at the center of a circular lake. A fox is waiting at the shore, not able to swim, willing to eat the duck. It may move around the whole lake with a speed four times faster than the duck can swim. As soon as duck reaches the surface, it can fly, but not within the pond. Can the duck always reach the shore without being eaten by the fox?",  Puzzles,  Easy
+Second Chance, "Roll a die, and you get paid what the dice shows. But if you want, you can request a second chance & roll the die again; get paid what the second roll shows instead of the first. What is the expected value?",  Expected Value,  Medium
+Messing with Envelops, "There are
+n letters and
+n envelopes. Your servant puts the letters randomly in the envelopes so that each letter is in one envelope and all envelopes have exactly one letter. (Effectively a random permutation of n numbers chosen uniformly). Calculate the expected number of envelopes with correct letter inside them.",  Expected Value,  Easy
+Getting fair result from unfair coin, "We have a weighted coin which shows a Head with probability
+p, (
+0.5<p<1). We need to get a fair toss from this. What is the minimum number of tosses this coin do we need so that we can have probability of winning = losing = 50%?",  Probability,  Easy
+Colored Runs of Cards, "There are
+26 black(B) and
+26 red(R) cards in a standard deck. A run is number of blocks of consecutive cards of the same color. For example, a sequence RRRRBBBRBRB of only 11 cards has 6 runs; namely, RRRR, BBB, R, B, R, B. Find the expected number of runs in a shuffled deck of cards.",  Expected Value,  Medium
+Enclosing The Center, "N points are chosen at random on the cicumference of a circle. A convex
+n-gon (
+n sided polygon) is drawn by joining these
+n points. What is the probability that the center of circle lies inside the region of
+n-gon, if
+N=7,n=7?",  Probability,  Medium
+Max Number of Collinear Points, "Given n points on a
+2D plane, find the equation of the line with maximum number of collinear points. What is the time complexity of your algorithm?",  Geometry,  Medium
+Catching the Spy, "A spy is located on a one-dimensional line. At time
+0, the spy is at location
+A. With each time interval, the spy moves
+B units to the right (if
+B is negative, the spy is moving left).
+A and
+B are fixed integers, but they are unknown to you. You are to catch the spy.",  Algorithms,  Hard
+Screwy Pirates, "Five pirates need to divide
+100 Gold Coins. Pirates have hierarchy, from Level
+5 to level
+1. The level-
+5 pirate proposes a division plan and all the pirates vote on it. If at least
+50 of the pirates agree on the plan, the gold is split according to the proposal. If not, level-
+5 pirate is kicked from the ship, and the level-
+4 pirate now proposes a plan. This process continues until a proposal is accepted. All pirates are extremely smart and extremely greedy. What is the max amount of gold that the level 5 pirate can keep for himself?",  Puzzles,  Easy
+Sharing a Secret, "A group of
+5 people want to keep their secret document in a safe. They want to make sure that in future, only a majority (>=3) can open the safe. So they want to put some locks on the safe, each of the locks have to be opened to access the safe. Each lock can have multiple keys; but each key only opens one lock. How many locks are required at the minimum?",  Combinatorics,  Hard
+Fork in Road, "A traveler wants to go to the mystic. He meets a pair of twins at a fork in the road: one path leads to the jungle, the other to the mystic. One of the twins always says the truth, the other always lies (but you don't know who says the truth and who always lies). Is it possible to find the path that goes to the mystic from a single yes/no question from one of the twins? If yes, which one ? If no, why ?",  Strategy Game,  Easy
+Die Sum I, "We roll
+n dice and sum the highest 3. What is the probability that the sum is
+18? Compute for
+n=4",  Probability,  Easy
+Domino Covering, "An
+8×8 chessboard can be entirely covered by
+32 dominoes of size
+2×1. Suppose we cut off two opposite corners of chess (i.e. two white blocks or two black blocks). Can you cover the remaining chessboard with
+31 dominoes?",  Discrete Maths,  Easy
+Random Ratio, "p and
+q are two points chosen at random between
+0 &
+1. What is the probability that the ratio
+q
+p
+lies between
+1 &
+2?",  Discrete Maths,  Medium
+Counter Strike, "10 undercover agents have been found in don's lair. Less than half of them are terrorists and the rest are anti-terrorists. The nature of their job is so secret that there is no proof what so ever to testify who is who. Although each of them knows who was actual terrorist and who was anti because they worked in teams. A query consists of asking person
+i if person
+j is Anti. Anti will always speak truth but a terrorist may lie to confuse you. The goal is to find out one anti in fewest queries.",  Game Theory,  Hard
+Pair of Socks, "There are
+10 black socks and
+10 white socks (no left-right distinction) in the wardrobe. Your task is to draw the minimum number of socks at random to be sure you have a pair of a single color. How many socks should you draw?",  Discrete Maths,  Easy
+Drunk Passenger?, "A line of
+100 airline passengers is waiting to board a plane. They each hold a ticket to one of the
+100 seats on that flight. For convenience, let's say that the
+n
+th
+passenger in line has a ticket for the seat number '
+n'. Being drunk, the first person in line picks a random seat (equally likely for each seat). All of the other passengers are sober, and will go to their proper seats unless it is already occupied; If it is occupied, they will then find a free seat to sit in, at random. What is the probability that the last
+100
+th
+person to board the plane will sit in their proper seat #100?",  Probability,  Medium
+Horse race, "Suppose you are the manager of a horse racing event. You have 25 horses available to race, and each of them runs at a different constant speed. Unfortunately, the track only has 5 lanes, which means you can only race up to 5 horses at a time. Your objective is to find the top 3 fastest horses, but how many races do you need to conduct to achieve this goal?",  Puzzles,  Easy
+Gambler's ruin problem, "Player M has
+1 dollar and player N has
+2 dollars. Each game gives the winner $1 from the other. As a better player, M wins 2/3 of the games. They play until one of them is bankrupt. Whatis the probability that M wins?",  Probability,  Medium
+Fruit Magic, "13 Apples,
+15 Bananas and
+17 Cherries are put in the magic hat. When ever a collision of two different fruits occurs, they both get converted into the third type.",  Discrete Maths,  Medium
+Poisonous wine, "There's a king in a far away kingdom. Someone breaks into his wine cellar where he stores
+1000 bottles of wine. This person proceeds to poison one of the
+1000 bottles, but gets away too quickly for the king's guard to see which one he poisoned or to catch him. The king needs the remaining
+999 safe bottles for his party in
+4 weeks. The king has
+10 prisoners who deserve execution. The poison takes about
+3 weeks to take effect, and any amount of it will kill whoever drinks it. Can he figure out which bottle was poisoned in time for the party?",  Puzzles,  Easy
+Similar faces, "Suppose a pair of dice are thrown, and then thrown again. What is the probability that the faces appearing on the second throw are the same as the first?",  Probability,  Medium
+Counterfeit coins, "You have
+10 bags of
+100 coins, and in all of them except for one, every coin weighs exactly
+10 grams. However, in the counterfeit bag, all coins weigh either
+9 or
+11 grams. You need to identify the counterfeit bag in just one weighing, and you have a digital scale that provides accurate weights. Can you successfully find the counterfeit bag in just one attempt?",  Puzzles,  Easy
+All Girls World?, "In a world where everyone wants a girl child, each family continues having babies till they have a girl. What do you think will the boy to girl ratio be eventually? (Assuming probability of having a boy or a girl is the same)",  Discrete Maths,  Easy
+Rainbow Hats, "N people team up and decide on a strategy for playing this game. Then they walk into a room. On entry to the room, each person is given a hat on which one of the first
+N natural numbers is written. There may be duplicate hat numbers. For example, for
+N=3, the
+3 team members may get hats labeled
+2,0,2. Each person can see the numbers written on the others' hats, but does not know the number written on his own hat. Every person then simultaneously guesses the number of his own hat.",  Puzzles,  Medium
+The Plane in the Wind, "An airplane flies in a straight line from airport
+A to airport
+B, then back in a straight line from
+B to
+A. It travels with a constant engine speed and there is no wind. Will its travel time for the same round trip be greater, less or the same if, throughout both flights, at the same engine speed, a constant wind blows from
+A to
+B?",  Puzzles,  Easy
+Candies in a Jar, "You are taking out candies one by one from a jar that has
+10 red candies,
+20 blue candies, and
+30 green candies in it. What is the probability that there are at least
+1 blue candy and
+1 green candy left in the jar when you have taken out all the red candies? (Candies of same color are indistinguishable!)",  Probability,  Medium
+Devil's Penny, "You are in a game against devil, on a perfectly round table and with an infinite pile of pennies. He says,",  Puzzles,  Easy
+Number of Double Heads, "A coin is tossed
+10 times and the output written as a string. What is the expected number of
+HH?",  Expected Value,  Medium
+Scaling a Square, "On a table you have a square made of 4 coins at the corner at distance 1. So, the square is of size 1×1. In a valid move, you can choose any two coin let’s call them mirror and jumper. Now, you move the jumper in a new position which is its mirror image with respect to mirror. That is, imagine that mirror is a centre of a circle and the jumper is on the periphery. You move the jumper to a diagonally opposite point on that circle. With any number of valid moves, can you form a square of size 2×2?",  Geometry,  Medium
+All Faces, "We roll a 6-sided die
+n times. What is the probability that all faces have appeared? Calculate answer for
+n=7.",  Probability,  Easy
+Weird Sequences, "What is/are the next term(s) in the sequence:",  Number Theory,  Medium
+Drunk Ant, "An ant is standing on one corner of a cube & can only walk on the edges. The ant is drunk and from any corner, it moves randomly by choosing any edge! What is the expected number of edges the ant travels, to reach the opposite corner?",  Expected Value,  Hard
+Two cylinders, "Imagine two tubes, both with a radius of
+1, crossing each other perfectly at the center. What is the total amount of space that is shared between the two tubes?",  Geometry,  Hard
+Antipodal points, "Assuming that temperature varies continuously, is it true that we can always find two opposite points on the Earth's surface that have the same temperature?",  Discrete Maths,  Easy
+Candy Game, "A group of students are sitting in a circle with the teacher in the center. They all have an even number of candies (not necessarily equal). When the teacher blows a whistle, each student passes half his candies to the student on his left. Then the students who have an odd number of candies obtain an extra candy from the teacher. Would all the students ever have the same number of candies after a finite number of whistles?",  Puzzles,  Medium
+Calendar cubes, "I recently had two dice custom-made with single-digit numbers on their faces. My intention was to use these dice to help me display the current day of the month every morning. However, I need to figure out what numbers to place on each of the six faces of the dice to achieve this. It's important to note that I must use both dice to display days 1 to 9 as
+01 to
+09 and I am free to switch the order of the dice if needed. Is it possible to accomplish the task by putting numbers on dice faces?",  Puzzles,  Easy
+Consecutive Faces, "After rolling a 6-sided die
+n times, what is the expected number of rolls until a sequence of all faces that have appeared in some order in six consecutive rolls?",  Expected Value,  Medium
+Chef's Delight, "You are chef for a day. There are 1024 different dishes you can make, but you need to pick 10 for the dinner menu. You've emailed the 3775 attendees a list of all the dishes and asked them to rank all the dishes in order of their preference (ranks go all the way from 1,2,3 … to …1024)",  Puzzles,  Hard
+Two Player Die Game, "Player A and Player B take turns rolling two standard dice, first player A, then player B. If Player A rolls a sum of
+6, A wins. If Player B rolls a sum of
+7, B wins. What is the probability that Player A will be the victor?",  Probability,  Medium
+Probability of Triangle, "A stick is broken into
+3 parts, by choosing
+2 points randomly along its length. With what probability can it form a triangle?",  Probability,  Easy
+Distribution of Highest Roll, "We rolled
+n dice and kept the highest one. What is the probability that the highest value is 3 for
+n=4?",  Probability,  Medium
+Prisoner's Hat (Infinity), "A countably infinite number of prisoners, each with an unknown and randomly assigned red or blue hat line up single file line. Each prisoner faces away from the beginning of the line, and each prisoner can see all the hats in front of him, and none of the hats behind. Starting from the beginning of the line, each prisoner must correctly identify the color of his hat or he is killed on the spot. As before, the prisoners have a chance to meet beforehand, but unlike before, once in line, no prisoner can hear what the other prisoners say. The question is, is there a way to ensure that only finitely many prisoners are killed?",  Strategy Game,  Hard
+Chocolate Bar, "There is a
+6x
+8 rectangular chocolate bar made up of small
+1x
+1 bits. We want to break it into the
+48 bits. We can break one piece of chocolate horizontally or vertically, but cannot break two pieces together! What is the minimum number of breaks required?",  Puzzles,  Easy
+Intersecting Pillars, "We want to construct a structure made as follows: imagine that two long cylindrical pillars each with radius 1 intersect at right angles and their centers also intersect. What is the volume of this intersection?",  Geometry,  Hard
+Get an Ace, "What is the expected number of cards that need to be turned over in a regular
+52-card deck in order to see the first ace?",  Expected Value,  Medium
+Light Bulbs in circle, "In a circle are light bulbs numbered
+1 through
+n, all initially on. At time
+t, you examine bulb number
+t, and if it’s on, you change the state of bulb
+(t+1)modn; i.e., you turn it off if it’s on, and on if it’s off. If bulb
+t is off, you do nothing. If you continue around the ring in this manner, would there be a point when all the bulbs will eventually be on again?",  Puzzles,  Medium
+Tigers & The Sheep, "Hundred tigers and one sheep are put on a magic island that only has grass. Tigers can live on grass, but they want to eat sheep. If a Tiger bites the Sheep then it will become a sheep itself. If 2 tigers attack a sheep, only the first tiger to bite converts into a sheep. Tigers don’t mind being a sheep, but they have a risk of getting eaten by another tiger. All tigers are intelligent and want to survive. Will the sheep survive?",  Puzzles,  Easy
+Prisoner's Hat (multicolor), "100 prisoners are lined up and assigned a random hat These hats are available in
+10 different unique and distinguishable colors. Each prisoner can see the hats in front of him but not behind. Starting with the prisoner in the back of the line and moving forward, they must each, in turn, say only one word which must be the color like "red" or "blue" or "green" etc. If the word matches their hat color they are released, if not, they are killed on the spot. They can hear each others answers, no matter how far they are on the line. You are the one who will help them come up with a strategy to save themselves. What is the max number of prisoners that you can certainly save ?",  Strategy Game,  Easy
+Cubic of integer, "Imagine that you are playing a game with a friend where you have to pick a number between
+1 to
+10
+12
+. Your friend tells you that if you can choose a number whose cube ends in
+11, you will win a prize. What is the likelihood that you will win?",  Discrete Maths,  Easy
+Expected Rolls II, "On average, how many rolls of a pair of
+6-sided dice are necessary for all sides to appear at least once?",  Expected Value,  Hard
+Mislabeled bags, "You are given three bags of fruits. One has apples in it; one has oranges in it; and one has a mix of apples and oranges in it. Each bag has a label on it (apple, orange or mix). Unfortunately, your manager tells you that ALL bags are mislabeled. Can you identify the bags by taking out just one fruit?",  Puzzles,  Easy
+Cars on road, "Your research assistants have discovered that there's a
+625
+609
+chance of seeing at least one car during any 20-minute time interval on a specific highway. You are curious to know the probability of seeing at least one car during a shorter time span of 5 minutes. You assume that the chance of seeing a car is constant throughout the entire 20 minutes. Can you calculate the probability of seeing a car within a 5-minute time frame?",  Probability,  Easy
+Witches at the coffee shop, "Two witches make a nightly visit to an all-night coffee shop. Each arrives at a random time between
+0:00 and
+1:00. Each one of them stays for exactly
+30 minutes. On any one given night, what is the probability that the witches will meet at the coffee shop?",  Probability,  Easy
+Estimate pi, "You have a random number generator that can output a decimal from 0 to 1. Using this tool, is it possible to devise an experiment to get the value of pi?",  Algorithms,  Easy
+Optimal Die Stop Strategy, "Suppose we can roll a 6-sided die up to
+n times. At any point we can stop, and that roll becomes our score. Our goal is to get the highest possible score, on average. Using the most optimal strategy, what is the max expected value of our score for
+n=3?",  Expected Value,  Medium
+Handshakes, "Imagine you attend a welcome party with
+25 colleagues. As you arrive, each of your fellow team members greets you with a handshake. You notice that many people in the room are also randomly shaking hands with others as they meet for the first time. You're unsure of the total number of handshakes exchanged that evening, but you're curious to know if there were at least two people who shook hands with the same number of people. Can you determine this with certainty?",  Discrete Maths,  Easy
+Roll Die till Difference, "On average, how many times must a 6-sided die be rolled until there are two rolls in a row that differ by 1 or no more than 1?",  Expected Value,  Hard
+Two cylinders, "Imagine two tubes, both with a radius of
+1, crossing each other perfectly at the center. What is the total amount of space that is shared between the two tubes?",  Geometry,  Easy
+Square Infection, "An infection spreads among the squares of an
+nX
+n checkerboard in the following manner. If a square has two or more infected neighbours, it becomes infected itself. (Each square has 4 neighbors only!). Can we infect the whole board if we begin with fewer than
+n infected squares?",  Puzzles,  Medium
+Game of Divisors, "Two immensely intelligent players,
+A &
+B, engage in a game, the rules of which are as follows. For some natural number
+N, the board consists of numbers from
+1 to
+N. Each player takes turns to strike off a (new) number from the board. But, to make sure
+N does't affect who wins, there is an added rule. Once you strike of a number, you also have to strike off all its divisors in that same chance, irrespective of whether any of those divisors were already marked. The player to strike off the last number on the board wins. Can
+A construct a winning strategy?",  Number Theory,  Hard
+Which Switch?, "There is a light bulb inside a room and four switches outside. All switches are currently at off state and only one switch controls the light bulb. You may turn any number of switches on or off any number of times you want. How many times do you need to go into the room to figure out which switch controls the light bulb?",  Puzzles,  Easy
+Maximizing Score in Dice Game, "We are playing a game with a die where we roll and sum our rolls. We can choose to stop at any time and take the sum as our score, but if we roll the same face twice in a row (consecutively), we lose all our points. Calculate the range in which the maximal expected score lies?",  Expected Value,  Medium
+Cheating Husbands, "A certain town comprises of
+100 married couples. Some husbands secretly cheat on their wives. All wives know about the nature of every husband except their own. When a wife concludes that her husband cheated, she kicks her husband into the street at midnight. All husbands remain silent about their secret. One day, the mayor of the town announces to the whole town that there is at least
+1 cheating husband in the town. After announcement, no one talks, waiting for someone to get kicked. Till
+9
+th
+night from announcement, no husband was kicked, but on the
+10
+th
+night, some husbands got kicked out simultaneously. How many are they?",  Puzzles,  Easy
+Distinct Number Draws, "Given the set of numbers from
+1 to
+n: {
+1,2,3..n} We draw
+n numbers randomly (with uniform distribution) from this set (with replacement). What is the expected number of distinct values that we would draw? Answer for
+n=4",  Expected Value,  Medium
+Consecutive sums, "An optimist and a pessimist are examining a sequence of real numbers. The optimist remarks, ‘Oh jolly! The sum of any eight consecutive terms is positive!’ But the pessimist interjects, ‘Not so fast, the sum of any five consecutive terms is negative.’",  Discrete Maths,  Easy
+Connecting Noodles, "You have
+100 noodles in your soup bowl. You are told to take two ends of some noodles (each end on any noodle has the same probability of being chosen) in your bowl and connect them. You continue until there are no free ends. Find the expression for the expected number of loops.",  Probability,  Hard
+Missing integers, "Imagine you have
+98 different whole numbers ranging from
+1 to
+100, but you noticed that two numbers are missing. As an expert in statistics and probability, is it possible to identify the two missing numbers within the range of
+1 to
+100? If yes, how and if no, why?",  Discrete Maths,  Easy
+Meeting probability, "Two bankers each arrive at the station at some random time between
+5:00 AM and
+6:00 AM (arrival time for either banker is uniformly distributed). They stay exactly five minutes and then leave. What is the probability they will meet on a given day?",  Probability,  Medium
+Innocent Monkey, "A very innocent monkey throws a fair die. The monkey will eat as many bananas as are shown on the die, from
+1 to
+5. But if the die shows '
+6', the monkey will eat
+5 bananas and throw the die again. This may continue indefinitely. What is the expected number of bananas the monkey will eat?",  Expected Value,  Easy
+100 Light bulbs, "Light bulbs are numbered
+1 to
+100, and kept off initially. First person comes and toggles all the bulbs which are multiple of
+1, i.e. he switches all bulbs to on. Second person toggles all multiples of
+2, i.e he turns of even bulbs. Third person comes and toggles all multiples of
+3. This process continues till
+100 persons pass. After this, how many bulbs are ON?",  Discrete Maths,  Easy
